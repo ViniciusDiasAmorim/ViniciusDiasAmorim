@@ -6,8 +6,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDiasAmorim&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ##
 <div>
-      <img src="src/Badge Alura + Oracle.png" style="width:225px">
-      <img src="src/Badge Front-End Alura + Oracle.png" style="width:225px">
-      <img src="src/Badge Java Alura + Oracle.png" style="width:225px">
-       <img src="src/Badge JS Alura + Oracle.png" style="width:225px">
+      <img src="src/Badge Alura + Oracle.png" style="width:200px">
+      <img src="src/Badge Front-End Alura + Oracle.png" style="width:200px">
+      <img src="src/Badge Java Alura + Oracle.png" style="width:200px">
+       <img src="src/Badge JS Alura + Oracle.png" style="width:200px">
 </div>
