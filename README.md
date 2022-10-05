@@ -11,3 +11,5 @@
       <img src="src/Badge Java Alura + Oracle.png" style="width:200px">
        <img src="src/Badge JS Alura + Oracle.png" style="width:200px">
 </div>
+
+  ![Snake animation](https://github.com/ViniciusDiasAmorim/ViniciusDiasAmorim/blob/output/github-contribution-grid-snake.svg)
