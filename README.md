@@ -1,4 +1,4 @@
-# Ola meu nome é Vinicius Dias
+# Ola meu nome é Vinícius Dias Amorim de Matos
 Estou buscando me tornar um desenvolvedor Full Stack, estou estudando C#.
 
 # 💻 Tech Stack:
