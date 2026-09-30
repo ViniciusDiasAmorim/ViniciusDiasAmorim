@@ -1,24 +1,14 @@
-# Oi, eu sou o Vinícius 👋
+# Vinícius Dias Amorim
 
-**Desenvolvedor .NET · Backend · SQL Server**
+Desenvolvedor .NET em São Paulo e estudante de Engenharia da Computação.
 
-## 💫 Sobre mim
+## Sobre mim
 
-Desenvolvedor .NET em São Paulo e estudante de Engenharia da Computação. Trabalho com um sistema de backoffice financeiro e de gestão de recursos em nuvem, daqueles que rodam todo dia e não podem parar.
+Aqui ficam os projetos que uso para estudar e praticar backend com .NET: APIs REST com ASP.NET Core e Entity Framework Core, autenticação com Identity e JWT, aplicações Windows Forms consumindo APIs e alguns projetos de front-end com Angular. Os mais recentes também rodam em Docker e têm CI/CD com GitHub Actions.
 
-- 🔭 Atualmente participando da modernização desse sistema: de .NET Framework para .NET 8 e de Windows Forms para React
-- 🌱 Aprendendo React e Angular
-- 🧪 Meu laboratório de estudos é o [call-service](https://github.com/ViniciusDiasAmorim/call-service), um sistema de chamados com ASP.NET Core, PostgreSQL, Docker e CI/CD
-- 💬 Pergunte sobre .NET, SQL Server e automação de testes
-- ⚡ Curiosidade: antes do código, eu era técnico em eletrônica
+Os repositórios fixados logo abaixo são um bom ponto de partida.
 
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vinicius-dias-amorim-de-matos/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniragh@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viniciusdiasamorim.github.io/SobreMim/)
-
-## 💻 Tech Stack
+## Tech Stack
 
 **Backend**
 
@@ -58,7 +48,7 @@ Desenvolvedor .NET em São Paulo e estudante de Engenharia da Computação. Trab
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🏅 Certificações
+## Certificações
 
 <div>
   <img src="src/Badge Alura + Oracle.png" width="140"/>
@@ -66,3 +56,9 @@ Desenvolvedor .NET em São Paulo e estudante de Engenharia da Computação. Trab
   <img src="src/Badge Java Alura + Oracle.png" width="140"/>
   <img src="src/Badge JS Alura + Oracle.png" width="140"/>
 </div>
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vinicius-dias-amorim-de-matos/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniragh@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viniciusdiasamorim.github.io/SobreMim/)
