@@ -1,14 +1,10 @@
-# Vinícius Dias Amorim
+### Hi, I'm Vinícius 👋
 
-Desenvolvedor .NET em São Paulo e estudante de Engenharia da Computação.
+.NET developer based in São Paulo, Brazil. I work on backend development, focusing on APIs, SQL Server, clean code following SOLID principles, and automated testing.
 
-## Sobre mim
+🎓 Computer Engineering (2023–2026)
 
-Aqui ficam os projetos que uso para estudar e praticar backend com .NET: APIs REST com ASP.NET Core e Entity Framework Core, autenticação com Identity e JWT, aplicações Windows Forms consumindo APIs e alguns projetos de front-end com Angular. Os mais recentes também rodam em Docker e têm CI/CD com GitHub Actions.
-
-Os repositórios fixados logo abaixo são um bom ponto de partida.
-
-## Tech Stack
+#### Tech Stack
 
 **Backend**
 
@@ -18,7 +14,7 @@ Os repositórios fixados logo abaixo são um bom ponto de partida.
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Bancos de dados**
+**Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,12 +29,12 @@ Os repositórios fixados logo abaixo são um bom ponto de partida.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-**Testes**
+**Testing**
 
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-22B14C?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Cloud e ferramentas**
+**Cloud & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge)
@@ -48,7 +44,7 @@ Os repositórios fixados logo abaixo são um bom ponto de partida.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Certificações
+#### Certifications
 
 <div>
   <img src="src/Badge Alura + Oracle.png" width="140"/>
@@ -56,9 +52,3 @@ Os repositórios fixados logo abaixo são um bom ponto de partida.
   <img src="src/Badge Java Alura + Oracle.png" width="140"/>
   <img src="src/Badge JS Alura + Oracle.png" width="140"/>
 </div>
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vinicius-dias-amorim-de-matos/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniragh@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viniciusdiasamorim.github.io/SobreMim/)
